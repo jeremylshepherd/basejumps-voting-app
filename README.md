@@ -99,3 +99,5 @@ MIT License. [Click here for more information.](LICENSE.md)
 Project uses:
     Font Awesome icons
     ChartJS for Charting
+    AngularJS
+    Bootstrap
